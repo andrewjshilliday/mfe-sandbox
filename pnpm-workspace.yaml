@@ -1,0 +1,12 @@
+packages:
+  - apps/app1
+  - apps/app2
+  - apps/app3
+  - apps/app4
+  - apps/app-svelte
+  - apps/app-vue
+  - apps/home
+  - apps/login
+  - apps/portal
+  - apps/server
+  - packages/config
