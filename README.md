@@ -1,7 +1,7 @@
 Module Federation managed with Turborepo
 ===============================================
 
-An example app using Module Federation.
+An example app using Module Federation
 
 
 # Installation
@@ -13,4 +13,4 @@ pnpm install
 pnpm start
 ```
 
-Then visit [http://localhost:3000](https://localhost:3000/).
+Then visit [http://localhost:3000](https://localhost:3000/)
