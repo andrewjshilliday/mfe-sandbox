@@ -13,4 +13,4 @@ pnpm install
 pnpm start
 ```
 
-Then visit the [home page](http://localhost:3000/).
+Then visit [http://localhost:3000](https://localhost:3000/).
