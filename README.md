@@ -6,7 +6,7 @@ An example app using Module Federation.
 
 # Installation
 
-In these five directories; `addtocart`, `cart`, `home`, `pdp` and `server` run these commands:
+Run the following commands in the root directory of this project:
 
 ```sh
 pnpm install
